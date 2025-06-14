@@ -10,13 +10,11 @@ public class App {
     public static int contarDiasCalurosos(int[][] matriz) {
         int diasCalurosos = 0;
         if (j > 30 ;i;matriz
+
+
+    )
     
     )
     } 
-
-
-
-
-)
     }
 }
